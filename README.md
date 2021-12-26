@@ -1,2 +1,2 @@
-# react-neative-cli-learn
-react-neative-cli-learn
+# react-native-cli-learn
+react-native-cli-learn
